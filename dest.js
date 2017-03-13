@@ -6,7 +6,7 @@
 // (https://api.playfab.com/Documentation/Server), and it runs in the context of a securely
 // authenticated player, so you can use it to implement logic for your game that is safe from
 // client-side exploits. 
-//
+//n
 // Cloud Script functions can also make web requests to external HTTP
 // endpoints, such as a database or private API for your title, which makes them a flexible
 // way to integrate with your existing backend systems.
